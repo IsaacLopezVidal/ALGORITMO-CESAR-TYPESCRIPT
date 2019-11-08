@@ -1,0 +1,14 @@
+{
+  "name": "corrimiento",
+  "version": "1.0.0",
+  "description": "algoritmo cesar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Angel Lopez Vidal",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
